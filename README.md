@@ -1,3 +1,3 @@
-#Esto es mi primer repocitorio
+#Esto es mi primer repositorio
   lo que sea
-  me duele la pansa
+  me duele la panza
